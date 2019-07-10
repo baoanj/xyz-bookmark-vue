@@ -7,7 +7,7 @@ yarn dev
 ```
 
 ## Run
-- Open [extensions](chrome://extensions/)
+- Open `chrome://extensions/`
 - Load folder `bookmark`
 
 ## Tech
