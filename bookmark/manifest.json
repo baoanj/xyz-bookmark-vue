@@ -1,0 +1,12 @@
+{
+  "name": "XYZ-BOOKMARK-VUE",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "minimum_chrome_version": "66",
+  "browser_action": {
+    "default_icon": "48x48.png",
+    "default_title": "书签",
+    "default_popup": "./index.html"
+  },
+  "permissions": ["bookmarks", "chrome://favicon/"]
+}
